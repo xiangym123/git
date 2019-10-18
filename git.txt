@@ -1,0 +1,8 @@
+国电投    xiangym  xiangym123
+
+
+git  pull
+ git status
+git add ./
+git commit -m '微信基本框架'
+git push origin develop/gdt
